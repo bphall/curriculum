@@ -1186,6 +1186,7 @@ There are a couple of ways to go about doing this, but the simplest is this:
 * [Jonathan Senior's Solution (Difficult)](https://github.com/Jonosenior/google-resultspage) | [View in browser](https://jonosenior.github.io/google-resultspage/)
 * [Anton Shelepov's Solution (Easy)](https://anton812s.github.io/google-homepage) | [View in browser](https://anton812s.github.io/google-homepage/index.html)
 * [Nevin Herring's Solution(Easy)](https://github.com/nevinherring) | [View in Browswer](https://nevinherring.github.io/google_homepage/)
+* [Brayton Hall's Solution (Easy)](https://github.com/bphall/google-search-results) | [View in Browser](https://bphall.github.io/google-search-results/)
 
 ### Additional Resources
 
